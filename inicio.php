@@ -1,1 +1,3 @@
-<!DOCT
+<?php
+echo "solucionando conflicto"
+?>
